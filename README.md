@@ -1,2 +1,2 @@
 # SHINE
-Official code for: "SHINE: Shielding Backdoors in Deep Reinforcement Learning"
+This repo contains code for: "SHINE: Shielding Backdoors in Deep Reinforcement Learning"

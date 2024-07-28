@@ -1,0 +1,15 @@
+atari-py
+gpytorch
+gym
+torch
+torchvision
+sklearn
+h5py
+opencv-python
+stable-baselines3
+seaborn
+scipy
+matplotlib
+tqdm
+PyYAML
+ale-py==0.7.5
